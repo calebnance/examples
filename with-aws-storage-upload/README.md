@@ -12,7 +12,7 @@ Try it at https://exp.host/@ykbryan/aws-storage-upload
 
 - Create a new AWS account
 - Run `npm install -g @aws-amplify/cli` to install Amplify CLI
-- Run `amplify init` to initilise a new Amplify project
+- Run `amplify init` to initialize a new Amplify project
 - Run `amplify push` to deploy the Storage and Auth resources in AWS
 
 ### Running the app
